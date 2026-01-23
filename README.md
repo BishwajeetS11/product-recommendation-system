@@ -1,4 +1,5 @@
 🛍️ Smart Shop – AI-Powered Product Recommendation System
+
 Live link: https://smart-shop-eight-rho.vercel.app/
 
 Smart Shop is a modern React-based AI product recommendation system that helps users discover products based on natural language preferences such as:
