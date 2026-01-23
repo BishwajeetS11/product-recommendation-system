@@ -1,4 +1,5 @@
 🛍️ Smart Shop – AI-Powered Product Recommendation System
+Live link: https://smart-shop-eight-rho.vercel.app/
 
 Smart Shop is a modern React-based AI product recommendation system that helps users discover products based on natural language preferences such as:
 
@@ -58,6 +59,7 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 Never commit your .env file. Add it to .gitignore.
 
 🛠️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/BishwajeetS11/product-recommendation-system.git
 cd product-recommendation-system
